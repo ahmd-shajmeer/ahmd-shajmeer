@@ -2,12 +2,21 @@
 
 ###
 
+
+<div align="center">
+  <img height="200" src="https://github.com/ahmd-shajmeer/ahmd-shajmeer/assets/138430951/d5870760-0f90-44cb-9203-52b8f1e0df56"  />
+</div>
+
+
+###
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **ahammedshajmeer@gmail.com**
 
 ###
 
+<h3>Skills</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
   <img width="14" />
@@ -46,6 +55,7 @@
 
 ###
 
+<h3>Connect Me Through</h3>
 <div align="center">
   <a href="ahammedshajmeer@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -76,8 +86,3 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://github.com/ahmd-shajmeer/ahmd-shajmeer/assets/138430951/d5870760-0f90-44cb-9203-52b8f1e0df56"  />
-</div>
-
-###
