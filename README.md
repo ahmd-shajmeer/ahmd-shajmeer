@@ -6,32 +6,42 @@
 
 - 📫 How to reach me **ahammedshajmeer@gmail.com**
 
+###
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="typescript logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="react logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=angular" height="36" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="70" alt="angularjs logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=redux" height="36" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="70" alt="vite logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="70" alt="redux logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="bootstrap logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=postman" height="70" alt="postman logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
 </div>
 
 ###
@@ -66,8 +76,8 @@
 
 ###
 
-<div align="center>
-  <img src="https://drive.google.com/file/d/1KFH3QH6lyTt1MEES8xyenoeAhTbugMcn/view?usp=drive_link" height="150"/>
+<div align="center">
+  <img height="200" src="https://github.com/ahmd-shajmeer/ahmd-shajmeer/assets/138430951/d5870760-0f90-44cb-9203-52b8f1e0df56"  />
 </div>
 
 ###
